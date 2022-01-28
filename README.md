@@ -10,8 +10,9 @@
 The renamer was created using Python to simply allow the user to select and rename objects. Nothing more, nothing less. 
 Not the fanciest of projects but it gets the job done and I had a spare half hour.
 
-## One main objectives
-1. Allow the user to select an object within Maya and rename it.
+## Two main objectives
+1. Allow the user to rename an object quickly and easily.
+2. Have a compact UI that is simple to use.
 
 ## Using the renamer
 To use the renamer an artist must first create a button on their custom Maya shelf and set that button to work with Python, not MEL, once set up the user can simply click the assigned button, a window will pop up with three boxes to enter text (Prefix, Body and Suffix) if the user wants to add underscores in between each word they can check the 'Add Underscores' checkbox and click the orange 'R' (Rename) button. 
