@@ -5,6 +5,7 @@
 <a href="https://github.com/KieronJenkins" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Follow">
 <a href="https://uk.linkedin.com/in/kieronjenkins" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Follow">
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Button">
+[![CodeFactor](https://www.codefactor.io/repository/github/kieronjenkins/maya-renamer/badge)](https://www.codefactor.io/repository/github/kieronjenkins/maya-renamer)
 
 ## About
 The renamer was created using Python to simply allow the user to select and rename objects. Nothing more, nothing less. 
