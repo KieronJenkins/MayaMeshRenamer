@@ -20,7 +20,7 @@ To use the renamer an artist must first create a button on their custom Maya she
   
 ![Readme banner image](./static/renamer-pic-banner.png)
 
-## Why create a toolbox
+## Why create a renamer
 Ultimately it isn't the most impressive tool around however I decided it would be a good 30-minute project to do for fun.
 
 
