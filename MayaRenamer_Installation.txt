@@ -9,8 +9,8 @@
 
 # In Maya, open a Python Tab (Same as if you were creating a button) in the Script Editor and execute:
 
-import maya_renamer as mr
-mr.main_window()
+import MeshRenamer as mr
+mr.MayaMeshRenamer()
 
 
 # Then go to File > Save Script to Shelf and give the script a name.
