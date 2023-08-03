@@ -1,9 +1,9 @@
 # ---- Installing and Running a .pyc File ----
 
-# To install the toolbox.pyc file navigate to your scripts folder 
+# To install the MeshRenamer.pyc file navigate to your scripts folder 
 # (Drive:\Users[Name]\Documents\maya[Version]\scripts)
 
-# Copy and Paste toolbox.pyc into the scripts folder.
+# Copy and Paste MeshRenamer.pyc into the scripts folder.
 
 # Launch / Restart Maya.
 
