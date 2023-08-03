@@ -156,7 +156,7 @@ class MayaMeshRenamer:
         selected_object = cmds.ls(selection=True)
         text_to_rename = cmds.textField(self.rename_text, query=True, text=True)
         for mesh_objects in selected_object:
-            cmds.rename(mesh_objects, text_to_rename + "_0" + str(text_numbering))
+            cmds.rename(mesh_objects, text_to_rename + "_01")
 
     def AddPrefixText(self, *args): # Used by Add Prefix Button
         selected_object = cmds.ls(selection=True)
